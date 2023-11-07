@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Resume</title>
+    </head>
+    <body>
+        <h1>Introduction</h1>
+        <p>
+            Myself Aayush Sakariya currently I am 18 as of (08-11-2023).I have learnt web development from Udemy(an online course).
+            I had interest in coding since I was in school,hence I wished to learn web development since then.And After I 
+            completed my high school,I started learning web development through online classes. 
+            <img src="./4.3 HTML Porfolio Project/aayush.jpg">
+        </p>
+    </br>
+    <h2>Education</h2>
+    <p>
+        <l>School-Shree Swaminarayan Gurukul Salvav Vapi,Gujarat,India</l>
+        <l>High School-Shree Swaminarayan Gurukul Salvav Vapi,Gujarat,India</l>
+        <l>Btech-GEC Gandhinagar in Robotics And Automation</l>
+    </p>
+</br>
+<h3>Work Experience</h3>
+<p>
+    I dont have any work experience as much because I am a fresher in this field but I did a free lancing project for one of my friend.
+    I am seeking for a job currently as a full stack web developer.I can work as a part time and full time as well.    
+</p>
+</br>
+<h4>Skills</h4>
+<p>If we talk about skills I dont have any weaker side in coding but the stronger side is web development coding.
+    I have very good in Back End Development which I think is the pillar of web development in my previous project. </p>
+</p>
+<h5>Certificates</h5>
+<p>As I have learnt Web development online from Udemy,I have been certify by them as a web developer.</p>
+    </body>
+    </html>
+        
